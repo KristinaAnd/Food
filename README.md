@@ -2,7 +2,7 @@
 
 Food Journals is a mobile app built on React Native and Expo to track food intake through journaling with images and descriptions.
 
-**Features:**
+**Functionality:**
 - User registration and login using local SQLite authentication.
 - Add food journal entries with photo (from camera or gallery), description and category (breakfast, lunch, dinner, snacks).
 - Filter journal entries by category.
